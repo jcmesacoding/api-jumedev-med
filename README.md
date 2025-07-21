@@ -1,4 +1,4 @@
-# API Voll Med - Gestión de Consultas Médicas
+# API REST Voll Med - Gestión de Consultas Médicas
 
 Proyecto de API REST desarrollada en Java usando **Spring Boot 3**, orientada a la gestión de consultas médicas.  
 Incluye autenticación con JWT, manejo de usuarios médicos y pacientes, y gestión de consultas.

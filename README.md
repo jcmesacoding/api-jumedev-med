@@ -15,11 +15,12 @@ Incluye autenticación con JWT, manejo de usuarios médicos y pacientes, y gesti
 ## 🛠️ Funcionalidades Principales
 - ✅ Registro y autenticación de usuarios
 - ✅ CRUD completo de médicos y pacientes
-- ✅ Gestión de consultas médicas
+- ✅ CRUD completo de gestión de consultas médicas
 - ✅ Seguridad basada en JWT
 - ✅ Validación de datos con Bean Validation
 - ✅ Manejo de excepciones personalizadas
 - ✅ Documentación generada con Swagger/OpenAPI
+- ✅ Test manuales y automatizados con SpringBoot Test y mockito
 
 ## 🗂️ Estructura Básica del Proyecto
 <img width="395" height="278" alt="image" src="https://github.com/user-attachments/assets/c918ea86-e8e9-433e-96cc-0fea1edae98f" />

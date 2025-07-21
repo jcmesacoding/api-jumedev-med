@@ -46,4 +46,4 @@ JWT incluido en las peticiones a los endpoints protegidos
 Este proyecto está bajo la licencia MIT.
 
 ## 📬 Contacto
-Creado por @Jumedev — [mesacruzjc@gmail.com] ¡No dudes en contactarme para feedback o colaboraciones!
+Creado por @Jumedev [https://jumedev.netlify.app/] — [mesacruzjc@gmail.com] ¡No dudes en contactarme para feedback o colaboraciones!
